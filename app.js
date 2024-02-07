@@ -7,7 +7,7 @@ function dogYears(myName, myAge) {
     let myAgeInDogYears = earlyYears + laterYears;
     console.log(`My name is ${myName}.
 I am ${myAge} years old in human years 
-which is ${myAgeInDogYears} years old in dog yeras.`)
+which is ${myAgeInDogYears} years old in dog years.`)
 }
 
 let myName = process.argv[2];
